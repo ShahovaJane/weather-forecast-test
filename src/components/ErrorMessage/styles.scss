@@ -1,0 +1,12 @@
+@import "../../constants/vars";
+
+.error-message{
+  margin-top: 2%;
+  background: $dark_red;
+  border-radius: 4px;
+  padding: 7px;
+  p{
+    margin-bottom: 0;
+    color: $white;
+  }
+}
